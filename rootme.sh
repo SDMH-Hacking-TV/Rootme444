@@ -20,7 +20,7 @@ echo "                 ░░░██║░░░░░╚██╔╝░░"
 echo "                 ░░░╚═╝░░░░░░╚═╝░░░"
 echo $red"                 WELCOME"
 echo $yellow" _________SDMH-Hacking-TV"
-	print 'Welcome SDMH-Hacking-TV'
+
 echo                                                        
   read -p "Use this tool for educational purpose only press enter to continue " Enter
 echo
