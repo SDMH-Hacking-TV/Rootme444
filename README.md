@@ -6,7 +6,7 @@ Its just a simple script which will allow you to become root user without rootin
 No need to manually become root which is automated to become root
 ```
 Boot2Root
-
+```
    
 
         ██████╗  ██████╗  ██████╗ ████████╗ ██████╗  ██████╗   ██████╗  ██████╗ ████████╗
@@ -20,7 +20,7 @@ Boot2Root
            
            
            
- justroot                                                                             
+justroot                                                                             
                                                                               
                                                                               
 
@@ -32,8 +32,7 @@ Boot2Root
    ╚█████╔╝╚██████╔╝███████║   ██║       ██║  ██║╚██████╔╝ ╚██████╔╝   ██║   
      ╚════╝  ╚═════╝ ╚══════╝  ╚═╝       ╚═╝  ╚═╝ ╚═════╝   ╚═════╝    ╚═╝   
                                                                          
-```
-          
+```          
          
 usage 
 
